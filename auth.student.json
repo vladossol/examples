@@ -1,0 +1,16 @@
+{
+    "cookies": [
+        {
+            "name": "token",
+            "value": "",
+            "domain": "",
+            "path": "/"
+        },
+        {
+            "name": "user",
+            "value": "",
+            "domain": "",
+            "path": "/"
+        }
+    ]
+}
